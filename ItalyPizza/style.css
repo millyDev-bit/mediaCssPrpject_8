@@ -1,0 +1,146 @@
+.block{
+	height: 80vh;
+	background: url(https://assets.nicepagecdn.com/d2cc3eaa/3955079/images/xxxmin.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+}
+.box0{
+	height: fit-content;
+}
+.box{
+	height: fit-content;
+	padding: 220px 30px 30px;
+}
+.box h1{
+	font-size: 70px;
+	font-weight: 700;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+
+.block1{
+	height: fit-content;
+	background: #1a1a1a;
+}
+.box01{
+	height: fit-content;
+	margin: -78px auto 0;
+}
+.box1{
+	height: fit-content;
+	padding: 20px 20px;
+}
+.bob{
+	width: 366px;
+	height: 522px;
+	background: white;
+	margin: auto;
+	padding: 30px;
+	text-align: center;
+}
+.img{
+	width: 306px;
+	height: 258px;
+	margin: auto;
+}
+.img img{
+	object-fit: cover;
+	width: 306px;
+	height: 258px;
+}
+.bob h4{
+	font-family: sans-serif;
+	font-weight: 700;
+	margin: 20px 0 0;
+}
+.bob p{
+	font-style: italic;
+	margin: 20px 0 0;
+	line-height: 1.6;
+	font-size: 20px;
+}
+.bob h5{
+	margin-top: 20px;
+	line-height: 1.6;
+	font-size: 20px;
+	color: #e73d0c;
+	font-weight: 700;
+}
+
+
+
+.block2{
+	height: fit-content;
+	background: #1a1a1a;
+}
+.box02{
+	height: fit-content;
+}
+.box2{
+	height: fit-content;
+	padding: 40px 180px;
+	margin: auto;
+}
+.box2 h2{
+	font-size: 50px;
+	font-weight: 700;
+	color: #e73d0c;
+	line-height: 1.1;
+}
+.box2 h4{
+	font-size: 25px;
+	font-weight: 500;
+	color: white;
+	line-height: 1.2;
+	margin: 50px 0 0;
+}
+.box2 p{
+	font-size: 20px;
+	font-style: italic;
+	color: #999999;
+	margin: 20px 0 0;
+}
+
+
+
+.block3{
+	height: fit-content;
+}
+.box03{
+	height: fit-content;
+}
+.box3{
+	height: fit-content;
+	padding: 100px 180px;
+	margin: auto;
+}
+.box3 h2{
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 1.1;
+	font-family: sans-serif;
+}
+.box3 img{
+	width: 515px;
+	height: 492px;
+	object-fit: cover;
+	margin: 35px 15px 0 0;
+	border-radius: 30px;
+}
+.box3 i{
+	font-size: 50px;
+	font-weight: 700;
+	color: rgb(231, 61, 12);
+}
+.box3 p{
+	font-size: 20px;
+	line-height: 1.6;
+	margin: 13px 0 0;
+}
+.box3 h5{
+	font-weight: 700;
+	margin: 30px 0 30px 0;
+}
